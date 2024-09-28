@@ -2,7 +2,7 @@ import pyodbc
 from datetime import datetime
 
 # Database connection details
-server = 'KARTHICK\SQLEXPRESS'  # e.g. 'localhost'
+server = 'KARTHICK\SQLEXPRESS'  
 database = 'ExpenseDB'
 username = 'sa'
 password = 'uno'
